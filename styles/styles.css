@@ -6,7 +6,7 @@ body {
 }
 
 .hero {
-    background: url('public/hero-image2.jpg') center/cover no-repeat;
+    background: url('../public/hero-image2.jpg') center/cover no-repeat;
     height: 70vh;
     display: flex;
     align-items: center;
